@@ -1,3 +1,6 @@
 [submodule "Assets/latkUnity"]
 	path = Assets/latkUnity
 	url = https://github.com/LightningArtist/latkUnity
+[submodule "tools/XYScopeBox"]
+	path = tools/XYScopeBox
+	url = https://github.com/n1ckfg/XYScopeBox
