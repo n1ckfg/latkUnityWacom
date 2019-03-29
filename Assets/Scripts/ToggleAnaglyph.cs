@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class ToggleAnaglyph : MonoBehaviour {
 
-	public s3dCamera anaglyph3d;
+	private void Start() {
+		
+	}
+
+	/*
+	 public s3dCamera anaglyph3d;
 
 	void Awake() {
 		if (anaglyph3d == null) anaglyph3d = GetComponent<s3dCamera>();
@@ -19,5 +24,6 @@ public class ToggleAnaglyph : MonoBehaviour {
 			}
 		}
 	}
+	*/
 
 }

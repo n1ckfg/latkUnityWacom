@@ -4,3 +4,12 @@
 [submodule "tools/XYScopeBox"]
 	path = tools/XYScopeBox
 	url = https://github.com/n1ckfg/XYScopeBox
+[submodule "Assets/latkxColorPicker"]
+	path = Assets/latkxColorPicker
+	url = https://github.com/n1ckfg/latkxColorPicker
+[submodule "Assets/latkxNetwork"]
+	path = Assets/latkxNetwork
+	url = https://github.com/n1ckfg/latkxNetwork
+[submodule "Assets/latkxWacom"]
+	path = Assets/latkxWacom
+	url = https://github.com/n1ckfg/latkxWacom
